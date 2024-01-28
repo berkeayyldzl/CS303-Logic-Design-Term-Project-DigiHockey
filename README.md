@@ -16,3 +16,5 @@ To see and use the codes, please create a new project in Xilinx Vivado with the 
 
 • The device is xc7a100tcsg324-1
 
+The constraint file is project.xdc . The inputs and outputs are predetermined according to the Project Information.
+
