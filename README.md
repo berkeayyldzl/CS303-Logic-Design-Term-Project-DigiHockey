@@ -9,7 +9,10 @@ For the logic of the project, please refer to the [ASM Chart](ASM_Chart.png).
 To see and use the codes, please create a new project in Xilinx Vivado with the given settings:
 
 • Family is Artix-7
+
 • Package is csg324
+
 • Speed is -1
+
 • The device is xc7a100tcsg324-1
 
